@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">-  Software Engineer <br>-  From India ♥<br>-  I'm currently lokking for any dev or qa jobs</p>
+<p align="left">-  Software Engineer <br>-  From India ♥<br>-  I'm currently looking for any dev or qa jobs</p>
 
 ###
 
