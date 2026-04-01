@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">-  A MCA student <br>-  From India ♥<br>-  I'm currently learning Python</p>
+<p align="left">-  Software Engineer <br>-  From India ♥<br>-  I'm currently lokking for any dev or qa jobs</p>
 
 ###
 
